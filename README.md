@@ -79,7 +79,7 @@ InnoHaat aspires to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/innohaat.git
+git clone https://github.com/SlammerStar/Team-Snap.git
 cd innohaat
 ```
 
