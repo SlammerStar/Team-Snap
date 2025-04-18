@@ -1,4 +1,4 @@
-# 🇮🇳 InnoHaat – Decentralizing Innovation for India
+# InnoHaat – Decentralizing Innovation for India
 
 > A Web3-powered innovation marketplace connecting Indian organizations with grassroots problem-solvers.
 
